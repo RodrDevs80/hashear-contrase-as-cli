@@ -1,0 +1,17 @@
+{
+  "name": "generadordehash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generadorDeHashs.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generadorDeHashs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  }
+}
